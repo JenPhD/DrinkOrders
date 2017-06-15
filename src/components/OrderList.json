@@ -1,0 +1,32 @@
+[
+  {"id": 0,
+    "menuItem1": "beer",
+    "menuItem1Count": 1,
+    "menuItem2": "wine",
+    "menuItem2Count": 2
+  },
+  {"id": 1,
+    "menuItem1": "beer",
+    "menuItem1Count": 3,
+    "menuItem2": "wine",
+    "menuItem2Count": 1
+  },
+  {"id": 2,
+    "menuItem1": "beer",
+    "menuItem1Count": 1,
+    "menuItem2": "wine",
+    "menuItem2Count": 1
+  },
+  {"id": 3,
+    "menuItem1": "beer",
+    "menuItem1Count": 2,
+    "menuItem2": "wine",
+    "menuItem2Count": 1
+  },
+  {"id": 4,
+    "menuItem1": "beer",
+    "menuItem1Count": 1,
+    "menuItem2": "wine",
+    "menuItem2Count": 2
+  }
+]
